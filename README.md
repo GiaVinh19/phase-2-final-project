@@ -7,8 +7,8 @@ Mission:
 
 Requirement check list:
 - index.js as the root file.
-- At least 5 components - <NavBar>, <Home>, <Rack>, <Racquet>, <Admin>, <ErrorPage>.
-- At least 3 client-site routes - <Home>, <Rack>, <Racquet>, <Admin>.
+- At least 5 components - NavBar, Home, Rack, Racquet, Admin, ErrorPage.
+- At least 3 client-site routes - Home, Rack, Racquet, Admin.
 - A backend db.json that run lists of admins' informations, Rack's and Racquet's customers.
 - At least 1 css file - index.css and NavBar.css
 
