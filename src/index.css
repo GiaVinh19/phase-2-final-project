@@ -1,0 +1,85 @@
+span {
+    margin: 0px 2px;
+}
+
+article {
+    border: solid 1px;
+    border-radius: 5px;
+    margin: 5px;
+    max-width: 350px;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+body {
+    color: rgb(192, 192, 192);
+    background-color: rgb(16, 16, 32);
+}
+
+main:not(#home) {
+    display: flex;
+    justify-content: center;
+}
+
+#column {
+    display: none;
+    justify-content: center;
+}
+
+#left,
+#right {
+    flex: 1;
+    text-align: center;
+    margin: 32px 128px;
+}
+
+main, #login-form{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+form, #login-form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(32, 32, 64);
+    text-align: center;
+}
+
+#shop, #author {
+    font-size: 64px;
+    justify-content: center;
+    text-align: center;
+}
+
+form button, #login-form button {
+    cursor: pointer;
+}
+
+label {
+    display: block; /* Set label as block to appear underneath */
+    margin-top: 10px;
+}
+
+#login-form input {
+    margin-left: 8px;
+}
+
+#login-form label, input {
+    margin-bottom: 8px;
+}
+
+button[type="submit"] {
+    margin-top: 16px;
+}
+
+article {
+    background-color: rgb(32, 32, 64);
+}
+
+#author {
+    font-size: 32px;
+}

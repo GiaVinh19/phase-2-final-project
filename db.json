@@ -1,0 +1,64 @@
+{
+  "rack": [
+    {
+      "id": "1",
+      "name": "Jack React",
+      "time": "1:23",
+      "date": "01/02/2024",
+      "service": "Lengthen",
+      "comment": "My Jorts are too short"
+    },
+    {
+      "id": "2",
+      "name": "Jack Component",
+      "time": "5:34",
+      "date": "01/11/2024",
+      "service": "Lengthen",
+      "comment": "My Jimbers are too loose"
+    },
+    {
+      "id": "3",
+      "name": "Jack Prop",
+      "time": "7:12",
+      "date": "02/09/2024",
+      "service": "Widen",
+      "comment": "My Jacket is too tight"
+    }
+  ],
+  "racquet": [
+    {
+      "id": "1",
+      "name": "Jack State",
+      "time": "1:43",
+      "date": "01/13/2024",
+      "service": "Racquet Stringing",
+      "comment": "Can you tense the string at 50 lbs? Thanks."
+    },
+    {
+      "id": "2",
+      "name": "Jack Effect",
+      "time": "9:23",
+      "date": "01/23/2024",
+      "service": "Grip Replacement",
+      "comment": "Can you change the grip for 4.5 inches? Thanks."
+    },
+    {
+      "id": "3",
+      "name": "Jack Python",
+      "time": "12:12",
+      "date": "01/25/2024",
+      "service": "Racquet Stringing",
+      "comment": "Can you sssssstring my racquet for free? Thanksssssss."
+    }
+  ],
+  "admins": [
+    {
+      "username": "Dadmin",
+      "password": "OpenSesame"
+    },
+    {
+      "username": "SpinnyVinny",
+      "password": "Spin2Win"
+    }
+  ]
+}
