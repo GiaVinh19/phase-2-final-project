@@ -6,7 +6,7 @@ Mission:
 - a delete function on customer card to check off whenever the request is completed.
 
 Requirement check list:
-- index.js as the root file.
+- index.js as the root file and routes.js as router for index.js.
 - At least 5 components - NavBar, Home, Rack, Racquet, Admin, ErrorPage.
 - At least 3 client-site routes - Home, Rack, Racquet, Admin.
 - A backend db.json that run lists of admins' informations, Rack's and Racquet's customers.
